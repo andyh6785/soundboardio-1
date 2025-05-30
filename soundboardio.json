@@ -24,23 +24,23 @@
   ],
   "tiles": [
     {
-      "name": "Darius_Biscuit",
+      "name": "Biscuit",
       "filename": "Darius_Biscuit.mp3"
     },
     {
-      "name": "Darius_Damn_Bro",
+      "name": "Damn Bro",
       "filename": "Darius_Damn_Bro.mp3"
     },
     {
-      "name": "Darius_Got_Meal",
+      "name": "Meal",
       "filename": "Darius_Got_Meal.mp3"
     },
     {
-      "name": "Darius_Should_Have_Checked",
+      "name": "Check",
       "filename": "Darius_Should_Have_Checked.mp3"
     },
     {
-      "name": "Darius_Yea",
+      "name": "Yea",
       "filename": "Darius_Yea.mp3"
     }
   ]
